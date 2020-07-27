@@ -4,8 +4,8 @@ h1 a, h2 a {
 }
 .header{
     height: 95vh;
-    background-image:linear-gradient(to right bottom, rgba(188, 214, 39, 0.8),rgba(10,150,10,0.8)),
-    url('https://wallpaperplay.com/walls/full/1/7/4/286153.jpg');
+    background-image:linear-gradient(to right bottom, rgba(83, 56, 150, 0.767),rgba(136, 150, 10, 0.8)),
+    url('https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     clip-path:polygon(0 0 , 100% 0, 100% 70vh, 0 100%);
     background-size: cover;
     background-position: top;
